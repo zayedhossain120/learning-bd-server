@@ -1,0 +1,98 @@
+[
+  {
+    "_id": "6523a189d999fdda620600db",
+    "picture": "https://images.pexels.com/photos/853151/pexels-photo-853151.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "age": 24,
+    "name": "Dee Frazier",
+    "company": "ZENCO",
+    "email": "deefrazier@zenco.com",
+    "phone": "+1 (887) 556-3248",
+    "address": "959 Hutchinson Court, Beechmont, Nebraska, 581",
+    "registered": "2014-06-15T11:18:31 -06:00",
+    "tags": [
+      "laboris",
+      "laborum",
+      "mollit",
+      "ad",
+      "eiusmod",
+      "velit",
+      "laborum"
+    ]
+  },
+  {
+    "_id": "6523a1899b1fd84516c6f973",
+    "picture": "https://images.pexels.com/photos/826349/pexels-photo-826349.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "age": 32,
+    "name": "Laverne Strong",
+    "company": "MAGNINA",
+    "email": "lavernestrong@magnina.com",
+    "phone": "+1 (972) 573-2928",
+    "address": "506 Poly Place, Saddlebrooke, Montana, 925",
+    "registered": "2018-09-18T12:37:49 -06:00",
+    "tags": [
+      "velit",
+      "voluptate",
+      "culpa",
+      "labore",
+      "voluptate",
+      "laborum",
+      "eiusmod"
+    ]
+  },
+  {
+    "_id": "6523a189f23fd59824a6661b",
+    "picture": "https://images.pexels.com/photos/3784428/pexels-photo-3784428.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=loadhttps://images.pexels.com/photos/3225519/pexels-photo-3225519.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    "age": 33,
+    "name": "Stark Herrera",
+    "company": "MANGLO",
+    "email": "starkherrera@manglo.com",
+    "phone": "+1 (946) 557-3190",
+    "address": "910 Cumberland Street, Tolu, Wisconsin, 8408",
+    "registered": "2021-05-19T05:12:07 -06:00",
+    "tags": ["veniam", "aliqua", "dolor", "ut", "in", "sunt", "deserunt"]
+  },
+  {
+    "_id": "6523a18994eb6e3ab83476da",
+    "picture": "https://images.pexels.com/photos/3756688/pexels-photo-3756688.jpeg",
+    "age": 27,
+    "name": "Armstrong Humphrey",
+    "company": "BIZMATIC",
+    "email": "armstronghumphrey@bizmatic.com",
+    "phone": "+1 (882) 512-2050",
+    "address": "904 Cove Lane, Yukon, Illinois, 2477",
+    "registered": "2015-09-07T01:51:55 -06:00",
+    "tags": ["eiusmod", "irure", "dolore", "dolor", "eu", "ea", "dolor"]
+  },
+  {
+    "_id": "6523a189aaa93212ba30db74",
+    "picture": "https://images.pexels.com/photos/3783125/pexels-photo-3783125.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "age": 36,
+    "name": "Minnie Tanner",
+    "company": "OPTICOM",
+    "email": "minnietanner@opticom.com",
+    "phone": "+1 (955) 493-3989",
+    "address": "612 Hoyts Lane, Faxon, New Mexico, 6727",
+    "registered": "2020-02-24T02:49:59 -06:00",
+    "tags": [
+      "ex",
+      "ullamco",
+      "incididunt",
+      "pariatur",
+      "cillum",
+      "eu",
+      "aliquip"
+    ]
+  },
+  {
+    "_id": "6523a18905a2d97f6a58199c",
+    "picture": "https://images.pexels.com/photos/3756688/pexels-photo-3756688.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "age": 40,
+    "name": "Cooper Head",
+    "company": "KANGLE",
+    "email": "cooperhead@kangle.com",
+    "phone": "+1 (900) 505-3601",
+    "address": "178 Strauss Street, Robbins, Maryland, 4611",
+    "registered": "2017-01-25T04:35:44 -06:00",
+    "tags": ["velit", "nulla", "qui", "fugiat", "laborum", "quis", "aute"]
+  }
+]
